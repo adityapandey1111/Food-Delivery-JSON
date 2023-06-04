@@ -148,5 +148,17 @@
 "name": "Curry",
 "price": 9.49,
 "imgSrc": "https://source.unsplash.com/random/1920x1080/?curry"
+},
+{
+"id": 26,
+"name": "Curry",
+"price": 9.49,
+"imgSrc": "https://source.unsplash.com/random/1920x1080/?curry"
+},
+{
+"id": 27,
+"name": "Curry",
+"price": 9.49,
+"imgSrc": "https://source.unsplash.com/random/1920x1080/?curry"
 }
 ]
